@@ -1,11 +1,16 @@
-# PHS4700-A2025-GPR14
+# TP1 — PHS4700-A2025-GPR14  
 
-TP1 
-------
+## Convention de nommage des fonctions  
 
-convention sur les noms de fonctions : 
-  1. calculCM(choix libre de param) : vecteur3d
-  2. calculI(choix libre de param) : matrice 3x3
-  3. calculAlpha(choix libre de param) : vecteur3d
-(PS : rien de fixe juste pour les noms des fonctions)
-  
+Les fonctions principales suivent une convention de nommage uniforme.  
+Les noms ci-dessous sont donnés à titre indicatif et peuvent être adaptés selon le contexte.  
+
+```cpp
+// Retourne un vecteur 3D
+vecteur3d calculCM(paramètres_au_choix);
+
+// Retourne une matrice 3x3
+matrice3x3 calculI(paramètres_au_choix);
+
+// Retourne un vecteur 3D
+vecteur3d calculAlpha(paramètres_au_choix);
