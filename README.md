@@ -1,6 +1,7 @@
-# TP1 — PHS4700-A2025-GPR14  
+# PHS4700-A2025-GPR14  
 
-## Convention de nommage des fonctions  
+## TP1  
+### Convention de nommage des fonctions  
 
 Les fonctions principales suivent une convention de nommage uniforme.  
 Les noms ci-dessous sont donnés à titre indicatif et peuvent être adaptés selon le contexte.  
